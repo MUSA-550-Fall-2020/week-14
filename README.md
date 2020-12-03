@@ -25,8 +25,8 @@ Office hours the week of Dec 14 TBD
 
 ## Recommended Viewing/Reading
 
-- PyData talk in Dec 2019 from the creator of Panel: https://www.youtube.com/watch?v=Ohr29FJjBi0
-- Classes in Python: http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/
+- [PyData talk in Dec 2019 from the creator of Panel](https://www.youtube.com/watch?v=Ohr29FJjBi0)
+- [Classes in Python](https://web.archive.org/web/20190730093245/http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/)
 
 ## Dashboard Examples
 
