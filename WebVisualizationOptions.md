@@ -2,12 +2,12 @@
 
 ## GitHub Pages
 
-- Template repository: [MUSA-620-Fall-2019/github-pages-starter](https://github.com/MUSA-620-Fall-2019/github-pages-starter/)
+- Template repository: [MUSA-550-Fall-2020/github-pages-starter](https://github.com/MUSA-550-Fall-2020/github-pages-starter/)
 - Supported tools: Matplotlib, Folium, Altair, hvplot/Holoviews, HTML files via IFrames
 - Examples:
-  - [Matplotlib charts](https://musa-620-fall-2019.github.io/github-pages-starter/example-post/)
-  - [Folium maps](https://musa-620-fall-2019.github.io/github-pages-starter/folium-charts/)
-  - [Altair & Hvplot/Holoviews](https://musa-620-fall-2019.github.io/github-pages-starter/measles-charts/)
+  - [Matplotlib charts](https://musa-550-fall-2020.github.io/github-pages-starter/example-post/)
+  - [Folium maps](https://musa-550-fall-2020.github.io/github-pages-starter/folium-charts/)
+  - [Altair & Hvplot/Holoviews](https://musa-550-fall-2020.github.io/github-pages-starter/measles-charts/)
 - Pros:
   - Automatic deployment/hosting via GitHub
   - Easy text formatting/input via Markdown
@@ -19,8 +19,8 @@
 ## Dash
 
 - Examples:
-  - [Dash + Altair](https://github.com/MUSA-620-Fall-2019/week-13/tree/master/dash-altair)
-  - [Dash + Folium](https://github.com/MUSA-620-Fall-2019/week-13/tree/master/dash-folium)
+  - [Dash + Altair](https://github.com/MUSA-550-Fall-2020/week-14/tree/master/dash-altair)
+  - [Dash + Folium](https://github.com/MUSA-550-Fall-2020/week-14/tree/master/dash-folium)
 - Only deployment option: Heroku
   - See: [Deployment Options](./DeploymentOptions.md) for instructions
 - Pros:
@@ -34,8 +34,8 @@
 ## Panel
 
 - Examples:
-  - [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-620-Fall-2019/philadelphia-shootings-app)
-  - [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-620-Fall-2019/datashader-nyc-taxi-app)
+  - [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-550-Fall-2020/philadelphia-shootings-app)
+  - [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-550-Fall-2020/datashader-nyc-taxi-app)
   - Two deployment options: Binder or Heroku
     - See: [Deployment Options](./DeploymentOptions.md) for instructions
 - Pros:
