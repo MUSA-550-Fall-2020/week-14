@@ -51,6 +51,7 @@ We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards
     - Examples of end-to-end apps using Panel
   - [Reference Gallery](https://panel.holoviz.org/reference/index.html)
     - Examples (code snippets) for the many different kinds of components possible in Panel dashboards
+  - [Panel Templates](https://panel.holoviz.org/user_guide/Templates.html)
   - [Awesome Panel](https://github.com/MarcSkovMadsen/awesome-panel)
     - Github repository of resources and information on Panel
   - [Example dashboards from the HoloViz team](https://github.com/holoviz-demos)
