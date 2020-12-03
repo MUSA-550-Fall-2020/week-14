@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=Ohr29FJjBi0
 
 ## Dashboard Examples
 
-We'll walk through two examples of [Panel](https://panel.pyviz.org) dashboards that can serve as a reference for the final project.
+We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards that can serve as a reference for the final project.
 
 1. [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-550-Fall-2020/philadelphia-shootings-app)
 1. [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-550-Fall-2020/datashader-nyc-taxi-app)
@@ -42,12 +42,17 @@ We'll walk through two examples of [Panel](https://panel.pyviz.org) dashboards t
 ## References
 
 - Panel
-  - [Documentation](https://panel.pyviz.org)
-  - [User Guide](https://panel.pyviz.org/user_guide/index.html)
-  - [Reference Gallery](https://panel.pyviz.org/reference/index.html)
-    - Includes examples of different types of Panels, e.g., HTML, Markdown, Vega, etc
-  - [Example dashboards from the PyViz team](https://github.com/pyviz-demos)
-- [Datashader dashboard tutorial](https://examples.pyviz.org/datashader_dashboard/dashboard.html)
+  - [Documentation homepage](https://panel.holoviz.org)
+  - [User Guide](https://panel.holoviz.org/user_guide/index.html)
+      - An overview of the concepts powering Panel dashboards
+  - [App Gallery](https://panel.holoviz.org/gallery/index.html)
+      - Examples of end-to-end apps using Panel
+  - [Reference Gallery](https://panel.holoviz.org/reference/index.html)
+      - Examples (code snippets) for the many different kinds of components possible in Panel dashboards
+  - [Awesome Panel](https://github.com/MarcSkovMadsen/awesome-panel)
+      - Github repository of resources and information on Panel
+  - [Example dashboards from the HoloViz team](https://github.com/holoviz-demos)
+- [Datashader dashboard tutorial](https://examples.holoviz.org/datashader_dashboard/dashboard.html)
   - Including a detailed walk-through of a Datashader-based dashboard
 - [Holoviews Reference Gallery](http://holoviews.org/reference/index.html)
   - [Streams](http://holoviews.org/reference/index.html#streams)
