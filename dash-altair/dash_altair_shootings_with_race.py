@@ -130,7 +130,7 @@ markdown_text = """
 # Shootings in Philadelphia
 """
 
-RACES = {"W": "White", "B": "Black"}
+RACES = {"W": "White", "B": "Black", "All": "All"}
 
 
 # set the layout
@@ -163,7 +163,7 @@ app.layout = html.Div(
                         dcc.Dropdown(
                             id="raceDropdown",
                             options=[
-                                {"label": RACES[i], "value": i} for i in ["W", "B"]
+                                {"label": RACES[i], "value": i} for i in ["W", "B", "All"]
                             ],
                             value="W",
                         ),
@@ -210,7 +210,8 @@ def render(days, race):
     gdf = get_data(days)
  
     # NEW: select data for selected race
-    gdf = gdf.loc[gdf["race"] == race]
+    if race != "All":
+        gdf = gdf.loc[gdf["race"] == race]
 
     # count shootings and homicides
     shootings = len(gdf)
