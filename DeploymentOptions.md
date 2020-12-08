@@ -55,4 +55,4 @@ deployment.
 The Philadelphia shootings app has been deployed to Heroku and includes instructions on
 how to do so.
 
-See: https://github.com/MUSA-620-Fall-2019/philadelphia-shootings-app#deploying-this-app-on-heroku
+See: https://github.com/MUSA-550-Fall-2020/philadelphia-shootings-app#deploying-this-app-on-heroku
